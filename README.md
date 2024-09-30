@@ -103,3 +103,4 @@ Here is the schema for a `Person` object:
 - [ ] If an error is encountered by the application, an informative error message should be returned
   to the client and your application should also log details.
 - [ ] Your project should include unit tests with 80% unit test coverage.
+# go-api-tech-challenge
